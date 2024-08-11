@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "56715ccaa8dbfb72",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5ea2dfe9c94aac1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "747d555577e10ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[ PROGRAMMING ]/Core/Сериализация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a47d0ff96bfc841d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[ PROGRAMMING ]/Core/Concurrency/Concurrency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e30b811a5f37906",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec2917e32a36cadd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40ff5eb158794857",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5eca14152d9c9ef0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e38345ae10d9a50c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "512c523b6d6ba73b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea7011f25a840a28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "033f95b7524c517d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "[ PROGRAMMING ]/Core/Concurrency/Concurrency.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c99b0b49f72619f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "[ PROGRAMMING ]/Core/Concurrency/Concurrency.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "448416a1fd1db891",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9311cbf9512511f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "[ PROGRAMMING ]/Core/Concurrency/Concurrency.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "a47d0ff96bfc841d",
+  "lastOpenFiles": [
+    "Содержание.md",
+    "Основы ООП.md",
+    "[ PROGRAMMING ]/Core/Concurrency/Concurrency.md",
+    "[ PROGRAMMING ]/Core/Concurrency",
+    "[ PROGRAMMING ]/ООП/Абстрактные классы.md",
+    "[ PROGRAMMING ]/Core/Обобщения generics.md",
+    "[ PROGRAMMING ]/Core/Сериализация.md",
+    "[ PROGRAMMING ]/ООП/Интерфейсы.md",
+    "[ PROGRAMMING ]/ООП/SOLID.md",
+    "[ PROGRAMMING ]/Core",
+    "[ PROGRAMMING ]/ООП/Ассоциация, агрегация, композиция.md",
+    "[ PROGRAMMING ]/ООП/Полиморфизм.md",
+    "[ PROGRAMMING ]/ООП/Инкапсуляция.md",
+    "[ PROGRAMMING ]/ООП/Наследование.md",
+    "[ PROGRAMMING ]/ООП",
+    "[ PROGRAMMING ]",
+    "templates/Tags temp.md",
+    "templates",
+    "Добро пожаловать.md",
+    "создайте ссылку.md",
+    "Тест ссылки.md"
+  ]
+}
