@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[ PROGRAMMING ]/Core/Сериализация.md",
+                "file": "[ PROGRAMMING ]/Core/Concurrency/Concurrency.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[ PROGRAMMING ]/Core/Concurrency/Concurrency.md",
+                "file": "Содержание.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,15 +159,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a47d0ff96bfc841d",
+  "active": "747d555577e10ae5",
   "lastOpenFiles": [
+    "[ PROGRAMMING ]/Core/Сериализация.md",
     "Содержание.md",
     "Основы ООП.md",
+    "README.md",
     "[ PROGRAMMING ]/Core/Concurrency/Concurrency.md",
     "[ PROGRAMMING ]/Core/Concurrency",
     "[ PROGRAMMING ]/ООП/Абстрактные классы.md",
     "[ PROGRAMMING ]/Core/Обобщения generics.md",
-    "[ PROGRAMMING ]/Core/Сериализация.md",
     "[ PROGRAMMING ]/ООП/Интерфейсы.md",
     "[ PROGRAMMING ]/ООП/SOLID.md",
     "[ PROGRAMMING ]/Core",
